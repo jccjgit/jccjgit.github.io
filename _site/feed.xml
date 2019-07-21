@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/explanations/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/explanations/" rel="alternate" type="text/html" /><updated>2019-07-21T11:31:40-04:00</updated><id>http://localhost:4000/explanations/feed.xml</id><title type="html">Explanations</title><subtitle>An experiment on publishing my musings on various topics.</subtitle><author><name>Juan Carlos</name></author><entry><title type="html">Consciousness and Machines</title><link href="http://localhost:4000/explanations/2019/07/10/consciousness-and-machines.html" rel="alternate" type="text/html" title="Consciousness and Machines" /><published>2019-07-10T15:56:13-04:00</published><updated>2019-07-10T15:56:13-04:00</updated><id>http://localhost:4000/explanations/2019/07/10/consciousness-and-machines</id><content type="html" xml:base="http://localhost:4000/explanations/2019/07/10/consciousness-and-machines.html">&lt;p&gt;This is the kickstart post out of a series of posts documenting my personal journey through ideas in computer science, physics, and consciousness. The aim of it all is to form an opinion on the nature of consciousness. In particular, to reach a position on the following question: ¿Is the human brain a Turing Machine?
+To explore such a question, we’ll have to delve into turing machines, quantum computers, incompletness theorems, and the laws of physics among others. Thankfully, we go into this most daunting endeavour aided by the great expositions contained in the following references:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-080-great-ideas-in-theoretical-computer-science-spring-2008/&quot;&gt;&lt;em&gt;Prof. Scott Aaronson. 2008. Great Ideas in Theoretical Computer Science.&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/dp/0521199565/ref=rdr_ext_tmb&quot;&gt;&lt;em&gt;Prof. Scott Aaronson. 2013. Quantum Computing Since Democritus. Cambridge University Press.&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567&quot;&gt;&lt;em&gt;Hofstadter, Douglas R. 1999. Gödel, Escher, Bach : an eternal golden braid. Basic Books.&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793&quot;&gt;&lt;em&gt;Hofstadter, Douglas R. 2007. I am a strange loop. Basic Books.&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359&quot;&gt;&lt;em&gt;Deutsch, David. 2012. The beginning of infinity. Penguin Books.&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X&quot;&gt;&lt;em&gt;Deutsch, David. 2012. The fabric of reality. Penguin Books.&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Emperors-New-Mind-Concerning-Computers/dp/0192861980&quot;&gt;&lt;em&gt;Penrose, Roger. 1989. The emperor’s new mind : concerning computers, minds, and the laws of physics. Oxford University Press.&lt;/em&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The content of the subsequent posts will mostly reflect the order in which I’ll be studying the topics at hand and most likely will not form a well structured whole as you might expect from a book. That said, I’ll strive to make the content as self-contained as possible within &lt;em&gt;reasonable&lt;/em&gt; time and effort constrains.&lt;/p&gt;
+
+&lt;!-- ### Great Ideas in Theoretical Computer Science
+
+From lecture 1 of Scott Aaronsons's course
+:
+
+*&quot;We start with the simplest possible systems, and sets of rules that
+we haven’t necessarily confirmed by experiment, but which we just suppose are true, and then ask
+what sort of complex systems we can and cannot build.&quot;* 
+
+I'm for the first time encountered with the idea that Computer Science is about determining what can and cannot happen, which  *has as much to do with computers as astronomy has to do with telescopes* (Edsger Dijkstra).
+
+It is crucial that we define the machine as having a finite number of states. If the machine had
+an infinite number of states, then it could compute absolutely anything, but such an assumption is
+physically unrealistic.
+
+In other words, the pigeonhole principle seems obvious to us because we can stand back and
+see the larger picture. But a propositional proof system like the ones we saw in the last lecture
+can’t do this; it can only reason locally. --&gt;</content><author><name>Juan Carlos</name></author><summary type="html">This is the kickstart post out of a series of posts documenting my personal journey through ideas in computer science, physics, and consciousness. The aim of it all is to form an opinion on the nature of consciousness. In particular, to reach a position on the following question: ¿Is the human brain a Turing Machine? To explore such a question, we’ll have to delve into turing machines, quantum computers, incompletness theorems, and the laws of physics among others. Thankfully, we go into this most daunting endeavour aided by the great expositions contained in the following references:</summary></entry></feed>

@@ -1,0 +1,20 @@
+title:             Explanations 
+email:             juancarlos.calvojackson@gmail.com
+description:       An experiment on publishing my musings on various topics. 
+author:            Juan Carlos 
+baseurl:           "/explanations"
+url:               "http://blackrockdigital.github.io"
+
+# Social Profiles
+twitter_username:  jccalvojackson
+# github_username:   BlackrockDigital
+# facebook_username: StartBootstrap
+linkedin_username: jc-cj
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
