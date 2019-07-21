@@ -11,10 +11,10 @@ To explore such a question, we'll have to delve into turing machines, quantum co
 
 * [*Prof. Scott Aaronson. 2008. Great Ideas in Theoretical Computer Science.* ](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-080-great-ideas-in-theoretical-computer-science-spring-2008/)
 * [*Prof. Scott Aaronson. 2013. Quantum Computing Since Democritus. Cambridge University Press.* ](https://www.amazon.com/dp/0521199565/ref=rdr_ext_tmb)
-* [*Hofstadter, Douglas R. 1999. Gödel, Escher, Bach : an eternal golden braid. Basic Books.* ](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
-* [*Hofstadter, Douglas R. 2007. I am a strange loop. Basic Books.* ](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793)
 * [*Deutsch, David. 2012. The beginning of infinity. Penguin Books.* ](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359)
 * [*Deutsch, David. 2012. The fabric of reality. Penguin Books.* ](https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X)
+* [*Hofstadter, Douglas R. 1999. Gödel, Escher, Bach : an eternal golden braid. Basic Books.* ](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
+* [*Hofstadter, Douglas R. 2007. I am a strange loop. Basic Books.* ](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793)
 * [*Penrose, Roger. 1989. The emperor's new mind : concerning computers, minds, and the laws of physics. Oxford University Press.* ](https://www.amazon.com/Emperors-New-Mind-Concerning-Computers/dp/0192861980)
 
 The content of the subsequent posts will mostly reflect the order in which I'll be studying the topics at hand and most likely will not form a well structured whole as you might expect from a book. That said, I'll strive to make the content as self-contained as possible within *reasonable* time and effort constrains. 
