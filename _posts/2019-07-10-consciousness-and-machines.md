@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Consciousness and Machines"
+title:  "Consciousness and Machines Series"
 subtitle: "A journey through classical and quantum computers, laws of physics, incompletness and more."
 date:   2019-07-10 11:56:13 -0800
 background: '/img/posts/analytical-engine.jpg'
