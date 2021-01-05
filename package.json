@@ -31,7 +31,7 @@
         "jquery": "3.4",
         "startbootstrap-clean-blog": "5.0.4",
         "lodash": ">=4.17.13",
-        "axios": ">=0.18.1"
+        "axios": ">=0.21.1"
     },
     "devDependencies": {
         "browser-sync": "2.26.3",
